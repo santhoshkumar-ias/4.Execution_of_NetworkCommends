@@ -580,3 +580,9 @@ Virtualization-based security: Status: Running
 Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
 
 C:\Users\santhosh>
+```
+## Result
+Thus Execution of Network commands Performed 
+
+
+
